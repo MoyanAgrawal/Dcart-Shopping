@@ -1,0 +1,10 @@
+.background{
+    background-color: hotpink;
+}
+.heading{
+    text-align: center;
+    color: white;
+    background-color: hotpink;
+    padding: 10px;
+    margin: 10px 0;
+}
